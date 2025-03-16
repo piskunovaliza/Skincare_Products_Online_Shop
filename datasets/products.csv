@@ -1,0 +1,101 @@
+product_id,name,description,price,category_id,brand,stock_quantity,image_url,orders_id
+1,Face Cream,Moisturizing face cream for daily use,19.99,1,BrandA,100,http://example.com/face_cream.jpg,1
+2,Shampoo,Nourishing shampoo for all hair types,9.99,2,BrandB,200,http://example.com/shampoo.jpg,2
+3,Body Lotion,Hydrating body lotion with aloe vera,14.99,3,BrandC,150,http://example.com/body_lotion.jpg,3
+4,Hand Cream,Moisturizing hand cream,5.99,3,BrandD,120,http://example.com/hand_cream.jpg,4
+5,Hair Conditioner,Nourishing hair conditioner,10.99,2,BrandE,180,http://example.com/hair_conditioner.jpg,5
+6,Body Wash,Refreshing body wash,7.99,3,BrandF,130,http://example.com/body_wash.jpg,6
+7,Face Mask,Revitalizing face mask,12.99,1,BrandG,90,http://example.com/face_mask.jpg,7
+8,Hair Serum,Smoothing hair serum,15.99,2,BrandH,110,http://example.com/hair_serum.jpg,8
+9,Foot Cream,Softening foot cream,6.99,3,BrandI,140,http://example.com/foot_cream.jpg,9
+10,Shower Gel,Refreshing shower gel,8.99,3,BrandJ,170,http://example.com/shower_gel.jpg,10
+11,Facial Cleanser,Gentle facial cleanser,13.99,1,BrandK,100,http://example.com/facial_cleanser.jpg,11
+12,Hair Oil,Nourishing hair oil,16.99,2,BrandL,120,http://example.com/hair_oil.jpg,12
+13,Body Scrub,Exfoliating body scrub,11.99,3,BrandM,130,http://example.com/body_scrub.jpg,13
+14,Eye Cream,Anti-aging eye cream,17.99,1,BrandN,80,http://example.com/eye_cream.jpg,14
+15,Hair Mask,Repairing hair mask,14.99,2,BrandO,100,http://example.com/hair_mask.jpg,15
+16,Body Butter,Ultra moisturizing body butter,18.99,3,BrandP,110,http://example.com/body_butter.jpg,16
+17,Lip Balm,Hydrating lip balm,4.99,4,BrandQ,150,http://example.com/lip_balm.jpg,17
+18,Hair Spray,Flexible hold hair spray,9.99,2,BrandR,140,http://example.com/hair_spray.jpg,18
+19,Body Mist,Refreshing body mist,7.99,3,BrandS,160,http://example.com/body_mist.jpg,19
+20,Face Serum,Anti-aging face serum,21.99,1,BrandT,90,http://example.com/face_serum.jpg,20
+21,Day Cream,Hydrating day cream with SPF,19.99,1,BrandU,100,http://example.com/day_cream.jpg,21
+22,Shower Cream,Moisturizing shower cream,9.99,3,BrandV,200,http://example.com/shower_cream.jpg,22
+23,Body Oil,Nourishing body oil,14.99,3,BrandW,150,http://example.com/body_oil.jpg,23
+24,Foot Scrub,Exfoliating foot scrub,5.99,3,BrandX,120,http://example.com/foot_scrub.jpg,24
+25,Hair Foam,Volumizing hair foam,10.99,2,BrandY,180,http://example.com/hair_foam.jpg,25
+26,Face Wash,Refreshing face wash,7.99,1,BrandZ,130,http://example.com/face_wash.jpg,26
+27,Night Cream,Anti-aging night cream,12.99,1,BrandAA,90,http://example.com/night_cream.jpg,27
+28,Hair Mask,Deep conditioning hair mask,15.99,2,BrandBB,110,http://example.com/hair_mask.jpg,28
+29,Hand Lotion,Moisturizing hand lotion,6.99,3,BrandCC,140,http://example.com/hand_lotion.jpg,29
+30,Shower Oil,Nourishing shower oil,8.99,3,BrandDD,170,http://example.com/shower_oil.jpg,30
+31,Face Toner,Refreshing face toner,13.99,1,BrandEE,100,http://example.com/face_toner.jpg,31
+32,Hair Cream,Styling hair cream,16.99,2,BrandFF,120,http://example.com/hair_cream.jpg,32
+33,Body Powder,Refreshing body powder,11.99,3,BrandGG,130,http://example.com/body_powder.jpg,33
+34,Eye Gel,Soothing eye gel,17.99,1,BrandHH,80,http://example.com/eye_gel.jpg,34
+35,Hair Balm,Repairing hair balm,14.99,2,BrandII,100,http://example.com/hair_balm.jpg,35
+36,Body Milk,Moisturizing body milk,18.99,3,BrandJJ,110,http://example.com/body_milk.jpg,36
+37,Lip Gloss,Shiny lip gloss,4.99,4,BrandKK,150,http://example.com/lip_gloss.jpg,37
+38,Hair Mist,Lightweight hair mist,9.99,2,BrandLL,140,http://example.com/hair_mist.jpg,38
+39,Body Oil,Refreshing body oil,7.99,3,BrandMM,160,http://example.com/body_oil.jpg,39
+40,Face Peeling,Exfoliating face peeling,21.99,1,BrandNN,90,http://example.com/face_peeling.jpg,40
+41,Day Lotion,Hydrating day lotion with SPF,19.99,1,BrandOO,100,http://example.com/day_lotion.jpg,41
+42,Shower Foam,Moisturizing shower foam,9.99,3,BrandPP,200,http://example.com/shower_foam.jpg,42
+43,Body Cream,Nourishing body cream,14.99,3,BrandQQ,150,http://example.com/body_cream.jpg,43
+44,Foot Oil,Moisturizing foot oil,5.99,3,BrandRR,120,http://example.com/foot_oil.jpg,44
+45,Hair Wax,Styling hair wax,10.99,2,BrandSS,180,http://example.com/hair_wax.jpg,45
+46,Face Scrub,Exfoliating face scrub,7.99,1,BrandTT,130,http://example.com/face_scrub.jpg,46
+47,Night Lotion,Anti-aging night lotion,12.99,1,BrandUU,90,http://example.com/night_lotion.jpg,47
+48,Hair Conditioner,Deep conditioning hair conditioner,15.99,2,BrandVV,110,http://example.com/hair_conditioner.jpg,48
+49,Hand Wash,Moisturizing hand wash,6.99,3,BrandWW,140,http://example.com/hand_wash.jpg,49
+50,Shower Gel,Nourishing shower gel,8.99,3,BrandXX,170,http://example.com/shower_gel.jpg,50
+51,Face Cream,Soothing face cream,13.99,1,BrandYY,100,http://example.com/face_cream.jpg,51
+52,Hair Mousse,Volumizing hair mousse,16.99,2,BrandZZ,120,http://example.com/hair_mousse.jpg,52
+53,Body Balm,Moisturizing body balm,11.99,3,BrandAAA,130,http://example.com/body_balm.jpg,53
+54,Eye Serum,Anti-aging eye serum,17.99,1,BrandBBB,80,http://example.com/eye_serum.jpg,54
+55,Hair Gel,Styling hair gel,14.99,2,BrandCCC,100,http://example.com/hair_gel.jpg,55
+56,Body Lotion,Ultra moisturizing body lotion,18.99,3,BrandDDD,110,http://example.com/body_lotion.jpg,56
+57,Lip Stick,Hydrating lip stick,4.99,4,BrandEEE,150,http://example.com/lip_stick.jpg,57
+58,Hair Pomade,Flexible hold hair pomade,9.99,2,BrandFFF,140,http://example.com/hair_pomade.jpg,58
+59,Body Spray,Refreshing body spray,7.99,3,BrandGGG,160,http://example.com/body_spray.jpg,59
+60,Face Serum,Anti-aging face serum,21.99,1,BrandHHH,90,http://example.com/face_serum.jpg,60
+61,Day Gel,Hydrating day gel with SPF,19.99,1,BrandIII,100,http://example.com/day_gel.jpg,61
+62,Shower Milk,Moisturizing shower milk,9.99,3,BrandJJJ,200,http://example.com/shower_milk.jpg,62
+63,Body Spray,Nourishing body spray,14.99,3,BrandKKK,150,http://example.com/body_spray.jpg,63
+64,Foot Cream,Moisturizing foot cream,5.99,3,BrandLLL,120,http://example.com/foot_cream.jpg,64
+65,Hair Oil,Styling hair oil,10.99,2,BrandMMM,180,http://example.com/hair_oil.jpg,65
+66,Face Lotion,Refreshing face lotion,7.99,1,BrandNNN,130,http://example.com/face_lotion.jpg,66
+67,Night Cream,Anti-aging night cream,12.99,1,BrandOOO,90,http://example.com/night_cream.jpg,67
+68,Hair Mask,Deep conditioning hair mask,15.99,2,BrandPPP,110,http://example.com/hair_mask.jpg,68
+69,Hand Lotion,Moisturizing hand lotion,6.99,3,BrandQQQ,140,http://example.com/hand_lotion.jpg,69
+70,Shower Oil,Nourishing shower oil,8.99,3,BrandRRR,170,http://example.com/shower_oil.jpg,70
+71,Face Toner,Refreshing face toner,13.99,1,BrandSSS,100,http://example.com/face_toner.jpg,71
+72,Hair Cream,Styling hair cream,16.99,2,BrandTTT,120,http://example.com/hair_cream.jpg,72
+73,Body Powder,Refreshing body powder,11.99,3,BrandUUU,130,http://example.com/body_powder.jpg,73
+74,Eye Gel,Soothing eye gel,17.99,1,BrandVVV,80,http://example.com/eye_gel.jpg,74
+75,Hair Balm,Repairing hair balm,14.99,2,BrandWWW,100,http://example.com/hair_balm.jpg,75
+76,Body Milk,Moisturizing body milk,18.99,3,BrandXXX,110,http://example.com/body_milk.jpg,76
+77,Lip Gloss,Shiny lip gloss,4.99,4,BrandYYY,150,http://example.com/lip_gloss.jpg,77
+78,Hair Mist,Lightweight hair mist,9.99,2,BrandZZZ,140,http://example.com/hair_mist.jpg,78
+79,Body Oil,Refreshing body oil,7.99,3,BrandAAAA,160,http://example.com/body_oil.jpg,79
+80,Face Peeling,Exfoliating face peeling,21.99,1,BrandBBBB,90,http://example.com/face_peeling.jpg,80
+81,Day Lotion,Hydrating day lotion with SPF,19.99,1,BrandCCCC,100,http://example.com/day_lotion.jpg,81
+82,Shower Foam,Moisturizing shower foam,9.99,3,BrandDDDD,200,http://example.com/shower_foam.jpg,82
+83,Body Cream,Nourishing body cream,14.99,3,BrandEEEE,150,http://example.com/body_cream.jpg,83
+84,Foot Oil,Moisturizing foot oil,5.99,3,BrandFFFF,120,http://example.com/foot_oil.jpg,84
+85,Hair Wax,Styling hair wax,10.99,2,BrandGGGG,180,http://example.com/hair_wax.jpg,85
+86,Face Scrub,Exfoliating face scrub,7.99,1,BrandHHHH,130,http://example.com/face_scrub.jpg,86
+87,Night Lotion,Anti-aging night lotion,12.99,1,BrandIIII,90,http://example.com/night_lotion.jpg,87
+88,Hair Conditioner,Deep conditioning hair conditioner,15.99,2,BrandJJJJ,110,http://example.com/hair_conditioner.jpg,88
+89,Hand Wash,Moisturizing hand wash,6.99,3,BrandKKKK,140,http://example.com/hand_wash.jpg,89
+90,Shower Gel,Nourishing shower gel,8.99,3,BrandLLLL,170,http://example.com/shower_gel.jpg,90
+91,Face Cream,Soothing face cream,13.99,1,BrandMMMM,100,http://example.com/face_cream.jpg,91
+92,Hair Mousse,Volumizing hair mousse,16.99,2,BrandNNNN,120,http://example.com/hair_mousse.jpg,92
+93,Body Balm,Moisturizing body balm,11.99,3,BrandOOOO,130,http://example.com/body_balm.jpg,93
+94,Eye Serum,Anti-aging eye serum,17.99,1,BrandPPPP,80,http://example.com/eye_serum.jpg,94
+95,Hair Gel,Styling hair gel,14.99,2,BrandQQQQ,100,http://example.com/hair_gel.jpg,95
+96,Body Lotion,Ultra moisturizing body lotion,18.99,3,BrandRRRR,110,http://example.com/body_lotion.jpg,96
+97,Lip Stick,Hydrating lip stick,4.99,4,BrandSSSS,150,http://example.com/lip_stick.jpg,97
+98,Hair Pomade,Flexible hold hair pomade,9.99,2,BrandTTTT,140,http://example.com/hair_pomade.jpg,98
+99,Body Spray,Refreshing body spray,7.99,3,BrandUUUU,160,http://example.com/body_spray.jpg,99
+100,Face Serum,Anti-aging face serum,21.99,1,BrandVVVV,90,http://example.com/face_serum.jpg,100
